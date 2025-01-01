@@ -24,7 +24,7 @@ Run portfolio_optimization.m to find the optimal portfolio allocations.
 Visualize Efficient Frontier (MATLAB):
 Run efficient_frontier.m to generate and plot the Efficient Frontier.
 Validate Results (MATLAB):
-Run show_return_risk.m to review and validate the optimization results.
+Run max_sharpe_ratio_contain_norisks.m to review and validate the optimization results.
 Folder Structure Overview:
 data/: Contains raw CSV data files for individual stocks.
 results/: Stores processed results (e.g., portfolio_results.csv).
